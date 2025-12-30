@@ -43,7 +43,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm mb-4">
         <div class="container">
             <a class="navbar-brand fw-bold text-primary" href="/">
-                <i class="bi bi-heart-pulse-fill"></i> MentalHealth Check
+                <i class="bi bi-heart-pulse-fill"></i>Check Burnout Mahasiswa
             </a>
         </div>
     </nav>
